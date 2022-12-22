@@ -1,7 +1,7 @@
 
 ![Header](./github-header-image.png)
 
-### Hi, I'm Alexander Neunreuther
+### Hi, I'm Alexander 
 
 - :bank: I am on a work-study program at the headquarters of the bank Credit Agricole Alsace-vosges
 
@@ -11,7 +11,7 @@
 
 
 
-### Connect with me:
+### :satellite: Connect with me:
 
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alexandre-neunreuther-489908179/#gh-light-mode-only)
@@ -19,11 +19,37 @@
 &nbsp;&nbsp;
 
 
-### Languages and Tools:
+### :computer: Languages :
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-4479A1.svg?logo=sql&logoColor=white)
+![](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+
+
+
+### :mag_right: What I am focusing on in 2023 :
+
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+### :rocket: My Data science starterpack :
+
+![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
+
+### :hammer: my Tools on python :
+
+![](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/scikit-013243.svg?logo=scikit&logoColor=white)
+![](https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white)
+![](https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+
 
