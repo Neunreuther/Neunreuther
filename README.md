@@ -14,8 +14,8 @@
 ### :satellite: Connect with me:
 
 
-[![website](./img/icons8-linkedin-circled-64.png)](https://www.linkedin.com/in/alexandre-neunreuther-489908179/#gh-light-mode-only)
-[![website](./img/icons8-linkedin-circled-64.png)](https://www.linkedin.com/in/alexandre-neunreuther-489908179/#gh-dark-mode-only)
+[![website](./icons8-linkedin-circled-64.png)](https://www.linkedin.com/in/alexandre-neunreuther-489908179/#gh-light-mode-only)
+[![website](./icons8-linkedin-circled-64.png)](https://www.linkedin.com/in/alexandre-neunreuther-489908179/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
