@@ -41,7 +41,7 @@
 ![](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
 
-### :hammer: my Tools on python :
+### :hammer:  Tools with python :
 
 ![](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white)
