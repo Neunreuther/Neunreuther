@@ -1,3 +1,6 @@
+
+![Header](./github-header-image.png)
+
 ### Hi, I'm Alexander Neunreuther
 
 ## I'm a Stundent at the University of Strasbourg (France)
