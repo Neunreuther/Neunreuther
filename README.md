@@ -15,7 +15,7 @@
 
 
 [![website](./icons8-linkedin-circled-64.png)](https://www.linkedin.com/in/alexandre-neunreuther-489908179/#gh-light-mode-only)
-[![website](./icons8-linkedin-circled-64.png)](https://www.linkedin.com/in/alexandre-neunreuther-489908179/#gh-dark-mode-only)
+[![website](./icons8-linkedin-circled2-64.png)](https://www.linkedin.com/in/alexandre-neunreuther-489908179/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
