@@ -3,13 +3,12 @@
 
 ### Hi, I'm Alexander Neunreuther
 
-## I'm a Stundent at the University of Strasbourg (France)
-
 - :bank: I am on a work-study program at the headquarters of the bank Credit Agricole Alsace-vosges
 
-- :mortar_board: I study at the University of Strasbourg and I'm doing a master in data science
+- :mortar_board: I study at the University of Strasbourg and I'm doing a master degree in data science
 
-- :signal_strength: I am learning machine learning and deep learning
+- :signal_strength: Im currently learning machine learning and deep learning
+
 
 
 ### Connect with me:
