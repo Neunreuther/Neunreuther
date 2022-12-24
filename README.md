@@ -7,7 +7,7 @@
 
 - :mortar_board: I study at the University of Strasbourg and I'm doing a master degree in data science
 
-- :signal_strength: Im currently learning machine learning and deep learning
+- :signal_strength: Im currently learning machine learning and deep learning algorithms
 
 
 
