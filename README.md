@@ -3,9 +3,9 @@
 
 ### Hi, I'm Alexander 
 
-- :bank: I am on a work-study program at the headquarters of the bank Credit Agricole Alsace-vosges
+- :bank: I am Data scientist at Daimler Truck
 
-- :mortar_board: I study at the University of Strasbourg and I'm doing a master degree in data science
+- :mortar_board: I studied at the University of Strasbourg
 
 - :signal_strength: Im currently learning machine learning and deep learning algorithms
 
